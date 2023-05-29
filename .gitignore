@@ -7,3 +7,6 @@
 # python crap
 *.pyc
 __pycache__/
+*data*
+*.gz
+*.tar
